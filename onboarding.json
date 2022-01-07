@@ -1,0 +1,22 @@
+{
+  "benefits" : [ {
+    "description" : "Our Aim is to create value for people around the world. That is why our projects need to provide a strong impact and be verified. By neutralizing your carbon footprint you will not only help save our planet but also support local communities and ecosystems. ",
+    "title" : "High Quality Projects"
+  }, {
+    "description" : "If you decide to neutralize your carbon footprint you can be sure that your compensation will end up in the right place. We only select truly trustable projects that have been certified via Gold Standard, Verified Carbon Standard or relevant Institutions in this field",
+    "title" : "Independent Verification"
+  } ],
+  "onboarding" : [ {
+    "description" : "You have already taken the first step by downloading this app. XX will calculate how much CO2 your lifestyle produces in a year. Within 5 Minutes you will know how big your Carbon Footprint is and how it compares to the national and global average. ",
+    "title" : "Ready to save the planet?"
+  }, {
+    "description" : "Sometimes we might not be aware of how much carbon emission we are actually producing - so this can be a great way to find out, get aware, give something back or look for climate friendly alternatives. ",
+    "title" : "Then let’s change it!"
+  }, {
+    "description" : "After completing the questions and viewing your result, you have the option to neutralize your emissions with monetary compensation. The money will go to environmental projects such as planting trees, supporting solar power or the distribution of clean cookstoves. All projects have been handpicked and are certified by relevant institutions such as Gold Standard. ",
+    "title" : "Your money, Your Choice"
+  }, {
+    "description" : "After selecting your location, we will ask you some questions about habits, nutrition and living. Then you will be able to review your result and select an optional compensation.",
+    "title" : "Let’s get started!"
+  } ]
+}
